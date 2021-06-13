@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.header{
+    background-color: #FFFFF4;
+    padding-bottom: 120px;
+}
+.logo-text{
+    font-weight: bold;
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+.green-text-color{
+    color: #76C27E;
+}
+.navy-text-color{
+    color: #363958;
+}
+.banner h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 100px;
+}
+.banner p{
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+.banner button, .btn-card-footer button{
+    background-color: #2A1E59;
+    color: #fff;
+    border-radius: 15px;
+    border: none;
+    padding: 20px 30px;
+}
+.banner button img, .btn-card-footer button img{
+    width: 30px;
+    margin-right: 10px;
+}
+.banner button h3, .btn-card-footer button h3{
+    font-size: 21px;
+    margin-bottom: 0;
+}
+.info{
+    margin: 100px 0;
+}
+.info-card{
+    border: 0;
+    box-shadow: 2px 2px 10px 2px #ddd;
+    border-radius: 30px;
+    padding: 10px;
+}
+.info-img{
+    width: 100px;
+}
+.info-card-text{
+    font-size: 23px;
+}
+.casual-card-group{
+    flex-flow: nowrap;
+}
+.casual-card{
+    border: none;
+    padding: 22px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 10px 2px #ddd;
+    margin: 10px;
+}
+.casual-card img{
+    border-radius: 30px;
+}
+.btn-card-footer{
+    border: none;
+    background-color: #fff;
+    margin-top: 20px;
+}
+.btn-card-footer p{
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.casual-card-body{
+    margin-top: 25px;
+}
+.casual-backpack .backpack-title, .travel-backpack .backpack-title{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    letter-spacing: 1px;
+    margin-bottom: 40px;
+    margin-top: 100px;
+}
+
